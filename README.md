@@ -1,1 +1,1 @@
-# CS771_Project_Word_Guesser
+# Word-Guessing
